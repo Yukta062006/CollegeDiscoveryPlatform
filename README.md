@@ -69,15 +69,16 @@ Whether you're searching for the best engineering college, comparing fees and pl
 - Desktop Optimized
 
 ---
+## 🖼️ Screenshots
 
-### Home Page
-![Home Page](Compare-Collages-main/frontend/public/screenshots/home.png)
+<h2>🏠 Home Page</h2>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/home.png" width="100%">
 
-### College Comparison
-![College Comparison](Compare-Collages-main/frontend/public/screenshots/compare.png)
+<h2>⚖️ College Comparison</h2>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/compare.png" width="100%">
 
-### Admission Predictor
-![Admission Predictor](Compare-Collages-main/frontend/public/screenshots/predictor.png)
+<h2>🎯 Admission Predictor</h2>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/predictor.png" width="100%">
 
 ---
 
@@ -237,3 +238,4 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 Made with ❤️ by **Yukta Thakur**
 
 </div>
+
