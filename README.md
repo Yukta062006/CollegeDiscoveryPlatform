@@ -70,28 +70,14 @@ Whether you're searching for the best engineering college, comparing fees and pl
 
 ---
 
-## 🖼️ Screenshots
-
 ### Home Page
-Add Screenshot Here
-
-```text
-frontend/public/screenshots/home.png
-```
+![Home Page](Compare-Collages-main/frontend/public/screenshots/home.png)
 
 ### College Comparison
-Add Screenshot Here
-
-```text
-frontend/public/screenshots/compare.png
-```
+![College Comparison](Compare-Collages-main/frontend/public/screenshots/compare.png)
 
 ### Admission Predictor
-Add Screenshot Here
-
-```text
-frontend/public/screenshots/predictor.png
-```
+![Admission Predictor](Compare-Collages-main/frontend/public/screenshots/predictor.png)
 
 ---
 
