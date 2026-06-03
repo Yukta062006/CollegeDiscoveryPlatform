@@ -71,14 +71,14 @@ Whether you're searching for the best engineering college, comparing fees and pl
 ---
 ## 🖼️ Screenshots
 
-<h2>🏠 Home Page</h2>
-<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/home.png" width="100%">
+<h1>🏠 Home Page</h1>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/Compare-Collages-main/frontend/public/home.png" width="100%">
 
-<h2>⚖️ College Comparison</h2>
-<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/compare.png" width="100%">
+<h1>⚖️ College Comparison</h1>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/Compare-Collages-main/frontend/public/compare.png" width="100%">
 
-<h2>🎯 Admission Predictor</h2>
-<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/frontend/public/predictor.png" width="100%">
+<h1>🎯 Admission Predictor</h1>
+<img src="https://raw.githubusercontent.com/Yukta062006/CollegeDiscoveryPlatform/main/Compare-Collages-main/Compare-Collages-main/frontend/public/predictor.png" width="100%">
 
 ---
 
